@@ -1,4 +1,6 @@
-# Hi there, I'm Liu Hanyu 🚀💥🚀💥🚀💥
+<h1 align="center">Hi there, I'm Liu Hanyu<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
+<h1 align="center">🚀💥🚀💥🚀💥</h1>
 
 <img align="right" alt="GIF" height="160px" src="https://s1.aigei.com/src/img/gif/db/db7a6eb9699c45ffae8595582612ed32.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:651-qDcerdNDrIA1QLzvmeLm-AM="/>
 
