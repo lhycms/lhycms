@@ -6,8 +6,9 @@
 
 - 👨‍💻 I’m currently working on Density Functional Theory (DFT), Molecular Dynamics (MD) and Monte Carlo algorithm, etc.
 - 💪🏼 Future Goals: Accelerate the simulation with parallel techniques like MPI, CUDA, etc.
-- 👉👉👉👉👉👉👉👉👉
-- 👈👈👈👈👈👈👈👈👈
+- 👆👇👉👈
+- 👆👇👉👈
+- 👆👇👉👈
 
 ---
 
