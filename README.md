@@ -1,13 +1,11 @@
-# Hi there, I'm Liu Hanyu
+# Hi there, I'm Liu Hanyu 🚀💥🚀💥🚀💥
 
 <img align="right" alt="GIF" height="160px" src="https://s1.aigei.com/src/img/gif/db/db7a6eb9699c45ffae8595582612ed32.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:651-qDcerdNDrIA1QLzvmeLm-AM="/>
 
-## I'm a Computational Material Science Student
+## I'm a Computational Material Science Student.
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 I’m currently working on Density Functional Theory (DFT), Molecular Dynamics (MD) and Monte Carlo algorithm, etc.
+- 💪🏼 Future Goals: Accelerate the simulation with parallel techniques like MPI, CUDA, etc.
 
 ---
 
