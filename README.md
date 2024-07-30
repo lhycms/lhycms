@@ -1,8 +1,8 @@
-# Hi there, I'm Liu Hanyu <img width="30px" src="https://s1.aigei.com/prevfiles/838a9dcd25a1400bb9b057df21fd1cd9.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:qLfnACzaHEGYE2qVJm6DoPtYvC4=" />
+# Hi there, I'm Liu Hanyu
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://s1.aigei.com/prevfiles/838a9dcd25a1400bb9b057df21fd1cd9.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:qLfnACzaHEGYE2qVJm6DoPtYvC4=)" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Computational Material Science Student
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
