@@ -10,6 +10,7 @@
 - 👆👇👉👈
 - 👆👇👉👈
 
+<video src="https://github.com/lhycms/lhycms/blob/main/videos/111.mp4" controls> </video>
 ---
 
 <div align="center">
@@ -17,5 +18,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhycms&layout=compact&hide=Jupyter%20Notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<video src="[https://twitter.com/i/status/1704296800427876801](https://github.com/lhycms/lhycms/blob/main/videos/111.mp4)"> </video>
