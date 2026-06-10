@@ -5,10 +5,6 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/lhycms/lhycms/blob/main/gifs/cat.gif"/>
 
 - 👨‍💻 I’m currently working on Density Functional Theory (DFT), Molecular Dynamics (MD) and Monte Carlo algorithm (MC), etc.
-- 💪🏼 Future Goals: Be a freelancer.
-- 👆👇👉👈
-- 👆👇👉👈
-- 👆👇👉👈
 
 ---
 
